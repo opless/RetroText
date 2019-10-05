@@ -9,18 +9,7 @@ This is a retro-font inspired by the venerable ZX-Spectrum 8x8 font, and the Mod
 Format:
 -------
 
-Char Header
-Line 0
-...
-Line 9
-(Repeated per char 0x20...0x7F)
-
-The character header
---------------------
-* A Hex Number in 0xNN format of the character definition following
-* A space, 0x20
-* An optional Ascii char, if it's not printable a question mark is preferred
-
+The fonts are 8x9 and in XPM format.
 
 
 Enjoy!
